@@ -47,4 +47,8 @@ fun main(args: Array<String>) {
 //    for (i in 0..(a.size - 1)) {
 //        print(a[i]);
 //    }
+//  리스트  val a = mutableListOf(1,2,3,4,5)
+//    a.add(4)
+//    a.remove(2)
+//    print(a)
 }
