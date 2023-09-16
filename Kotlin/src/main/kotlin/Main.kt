@@ -67,8 +67,15 @@ fun main(args: Array<String>) {
 //    print(n1)
 // 함수
 //    print(sum(10, 20))
-//}
+//클래스
+//    val j = Person("eh", 17)
+//    print(j.name)
+//    print(j.age)
+}
+// 함수
 //fun sum(a : Int, b : Int, c : Int = 0) = a + b + c
 //fun sum(a : Int, b: Int): Int{
 //    return a + b
 //}
+// 클래스
+ class Person(val name : String, var age : Int)
