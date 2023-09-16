@@ -65,4 +65,10 @@ fun main(args: Array<String>) {
 //        n1 = n
 //    }
 //    print(n1)
-}
+// 함수
+//    print(sum(10, 20))
+//}
+//fun sum(a : Int, b : Int, c : Int = 0) = a + b + c
+//fun sum(a : Int, b: Int): Int{
+//    return a + b
+//}
