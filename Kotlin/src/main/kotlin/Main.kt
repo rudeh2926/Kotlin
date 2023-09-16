@@ -1,5 +1,6 @@
 import kotlin.math.max
 import kotlin.math.min
+import kotlin.random.Random
 
 // 탑레벨 상수 const val a = 1;
 
@@ -16,4 +17,6 @@ fun main(args: Array<String>) {
    // var b = 20;
    // MAX print(max(a, b));
    // MIN print(min(a, b));
+  // random  val randomNumber = Random.nextInt(0, 100);
+  //  print(randomNumber);
 }
