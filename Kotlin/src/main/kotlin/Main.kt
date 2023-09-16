@@ -1,3 +1,5 @@
+// 탑레벨 상수 const val a = 1;
+
 fun main(args: Array<String>) {
    // println("Hello World!)
    // 변수 var a = 1;
