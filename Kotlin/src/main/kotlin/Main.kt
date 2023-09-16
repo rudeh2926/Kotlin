@@ -4,7 +4,7 @@ import kotlin.random.Random
 
 // 탑레벨 상수 const val a = 1;
 
-fun main(args: Array<String>) {
+//fun main(args: Array<String>) {
    // println("Hello World!)
    // 변수 var a = 1;
    // 상수 val a = 1;
@@ -71,7 +71,7 @@ fun main(args: Array<String>) {
 //    val j = Person("eh", 17)
 //    print(j.name)
 //    print(j.age)
-}
+// }
 // 함수
 //fun sum(a : Int, b : Int, c : Int = 0) = a + b + c
 //fun sum(a : Int, b: Int): Int{
@@ -79,3 +79,23 @@ fun main(args: Array<String>) {
 //}
 // 클래스
 // class Person(val name : String, var age : Int)
+// getter setter
+//fun main(args: Array<String>) {
+//    val j = Person("j", 1)
+//    var j1 = Person("j", 1)
+//    j.hobby = "ddd"
+//
+//    println(j)
+//    println(j1)
+//    println(j == j1)
+//}
+// class Person(val name : String,
+//              var age : Int) {
+//     var hobby = "축구"
+//    init {
+//        println("init")
+//    }
+//     fun some() {
+//         hobby = "농구"
+//     }
+//}
