@@ -7,4 +7,6 @@ fun main(args: Array<String>) {
    // var a  = 1;
     // var b = 1L;
    // 형변환 b = a.toLong();
+   // String var name = "도경";
+   // print("제 이름은 ${name}입니다")
 }
