@@ -40,4 +40,11 @@ fun main(args: Array<String>) {
 //        }
 //    }
 //    print(b);
+//  반복문  var a = listOf(1,2,3,4,5)
+//    for (a in a) {
+//        print(a)
+//    }
+//    for (i in 0..(a.size - 1)) {
+//        print(a[i]);
+//    }
 }
