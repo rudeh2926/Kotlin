@@ -19,4 +19,25 @@ fun main(args: Array<String>) {
    // MIN print(min(a, b));
   // random  val randomNumber = Random.nextInt(0, 100);
   //  print(randomNumber);
+
+//  조건문  var a = 10;
+//    var i = if (a > 5) {
+//        "5\n"
+//    } else {
+//        ""
+//    }
+//    print(i);
+//
+//    var b = when {
+//        a > 9 -> {
+//            "9"
+//        }
+//        a > 8 -> {
+//            "8"
+//        }
+//        else -> {
+//            "!!!"
+//        }
+//    }
+//    print(b);
 }
