@@ -51,4 +51,10 @@ fun main(args: Array<String>) {
 //    a.add(4)
 //    a.remove(2)
 //    print(a)
+//    val a = listOf(1,2,3)
+//  array  try {
+//        a[4]
+//    } catch (e : Exception) {
+//        print(e.message)
+//    }
 }
