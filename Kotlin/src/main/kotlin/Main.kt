@@ -57,6 +57,12 @@ fun main(args: Array<String>) {
 //    } catch (e : Exception) {
 //        print(e.message)
 //    }
-  
-
+//    null safety
+//    var n : String? = null
+//    n = "ee"
+//    var n1 : String = ""
+//    n?.let {
+//        n1 = n
+//    }
+//    print(n1)
 }
