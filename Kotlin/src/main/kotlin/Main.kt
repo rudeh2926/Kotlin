@@ -1,3 +1,6 @@
+import kotlin.math.max
+import kotlin.math.min
+
 // 탑레벨 상수 const val a = 1;
 
 fun main(args: Array<String>) {
@@ -9,4 +12,8 @@ fun main(args: Array<String>) {
    // 형변환 b = a.toLong();
    // String var name = "도경";
    // print("제 이름은 ${name}입니다")
+   // var a = 10;
+   // var b = 20;
+   // MAX print(max(a, b));
+   // MIN print(min(a, b));
 }
