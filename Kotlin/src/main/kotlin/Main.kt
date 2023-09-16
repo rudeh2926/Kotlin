@@ -78,4 +78,4 @@ fun main(args: Array<String>) {
 //    return a + b
 //}
 // 클래스
- class Person(val name : String, var age : Int)
+// class Person(val name : String, var age : Int)
