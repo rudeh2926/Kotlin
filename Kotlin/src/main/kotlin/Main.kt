@@ -119,3 +119,29 @@ import kotlin.random.Random
 //        println("살금")
 //    }
 //}
+//인터페이스
+//fun main() {}
+//interface Dr {
+//    fun dra()
+//}
+//abstract class Animal {
+//   open fun move() {
+//        print("이동")
+//    }
+//}
+//class  dog : Animal(), Dr {
+//    override fun move() {
+//        println("껑충")
+//    }
+//    override fun dra() {
+//        TODO("Not yet implemented")
+//    }
+//}
+//class  cat : Animal(), Dr {
+//    override fun move() {
+//        println("살금")
+//    }
+//    override fun dra() {
+//        TODO("Not yet implemented")
+//    }
+//}
