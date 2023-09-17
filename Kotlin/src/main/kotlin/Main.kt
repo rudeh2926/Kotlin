@@ -1,7 +1,3 @@
-import kotlin.math.max
-import kotlin.math.min
-import kotlin.random.Random
-
 // 탑레벨 상수 const val a = 1;
 
 //fun main(args: Array<String>) {
@@ -138,6 +134,38 @@ import kotlin.random.Random
 //    }
 //}
 //class  cat : Animal(), Dr {
+//    override fun move() {
+//        println("살금")
+//    }
+//    override fun dra() {
+//        TODO("Not yet implemented")
+//    }
+//}
+// 타입체크
+//fun main() {
+//    val dog : Animal = Dog()
+//    val cat = Cat()
+//    if (dog is Cat) {
+//        print("멍")
+//    }
+//}
+//interface Dr {
+//    fun dra()
+//}
+//abstract class Animal {
+//   open fun move() {
+//        print("이동")
+//    }
+//}
+//class  Dog : Animal(), Dr {
+//    override fun move() {
+//        println("껑충")
+//    }
+//    override fun dra() {
+//        TODO("Not yet implemented")
+//    }
+//}
+//class  Cat : Animal(), Dr {
 //    override fun move() {
 //        println("살금")
 //    }
