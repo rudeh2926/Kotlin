@@ -99,3 +99,23 @@ import kotlin.random.Random
 //         hobby = "농구"
 //     }
 //}
+// 상속
+//fun main() {
+//
+//}
+//abstract class Animal {
+//   open fun move() {
+//        print("이동")
+//    }
+//}
+//
+//class  dog : Animal() {
+//    override fun move() {
+//        println("껑충")
+//    }
+//}
+//class  cat : Animal() {
+//    override fun move() {
+//        println("살금")
+//    }
+//}
