@@ -1,3 +1,5 @@
+import javax.security.auth.callback.Callback
+
 // 탑레벨 상수 const val a = 1;
 
 //fun main(args: Array<String>) {
@@ -181,3 +183,14 @@
 //    print(box.value)
 //}
 //class Box<T>(var value: T)
+// 콜백함수
+//fun main() {
+//    my() {
+//        println("함수호출")
+//    }
+//}
+//fun my( callback: () -> Unit = {}) {
+//    println("함수시작")
+//    callback()
+//    println("함수끝")
+//}
