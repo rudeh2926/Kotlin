@@ -141,10 +141,11 @@
 //        TODO("Not yet implemented")
 //    }
 //}
-// 타입체크
+// 타입체크, 타입변환 as
 //fun main() {
 //    val dog : Animal = Dog()
 //    val cat = Cat()
+//    cat as Dog
 //    if (dog is Cat) {
 //        print("멍")
 //    }
@@ -173,3 +174,10 @@
 //        TODO("Not yet implemented")
 //    }
 //}
+// 제네릭
+//fun main() {
+//    val box = Box(10)
+//    val box2 = Box("adsf")
+//    print(box.value)
+//}
+//class Box<T>(var value: T)
